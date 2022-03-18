@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+.button {
+    height: 100px;
+    width: 100px;
+    background: rgb(241, 1, 1);
+    color: green;
+    font-size: 20px;
+}
+.block {
+    color: green;
+}
+
